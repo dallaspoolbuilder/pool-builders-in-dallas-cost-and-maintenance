@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dallaspoolbuilder.github.io/pool-builders-in-dallas-cost-and-maintenance/sitemap.xml
